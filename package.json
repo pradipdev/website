@@ -1,0 +1,15 @@
+{
+  "name": "smartpgresult",
+  "version": "1.0.0",
+  "description": "result for smart pg test",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.11.0"
+  },
+  "scripts": {
+    "start": "index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abinash",
+  "license": "ISC"
+}
